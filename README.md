@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Vladimir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Vladimir
+👀 I’m interested in fronted development
+🌱 I’m currently learning JavaScript
+💞️ I’m looking to collaborate on other front-end developers
+📫 How to reach me a good frontend development knowledge and skills?
 
 <!---
 re-vl/re-vl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
